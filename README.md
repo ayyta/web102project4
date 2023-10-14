@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2prOGwybXZyajB2empodTM1NXRhdnowczQzdzF4cno0Z2pqcXpjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAzcvwCMRRd78ldLJs/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2prOGwybXZyajB2empodTM1NXRhdnowczQzdzF4cno0Z2pqcXpjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAzcvwCMRRd78ldLJs/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2prOGwybXZyajB2empodTM1NXRhdnowczQzdzF4cno0Z2pqcXpjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gAzcvwCMRRd78ldLJs/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
