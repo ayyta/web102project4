@@ -5,4 +5,32 @@
   text-align: center;
 }
 
+.info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.info-container button{
+  margin-right: 5%;
+}
+
+.img-container {
+  max-width: 500px;
+  max-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.img-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+.discover-button {
+  display: block;
+}
