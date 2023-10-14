@@ -30,7 +30,26 @@
   object-fit: contain;
 }
 
+.discover-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
+}
 .discover-button {
-  display: block;
+  margin-top: 2%;
+}
+
+.cat-info-container {
+  display: grid;
+  grid-template-columns: 1fr 300px; /* Define fixed column widths */
+  grid-gap: 20px; /* Add a gap between columns */
+}
+
+.banned-title {
+  font-size: 40px;
+}
+
+.filtered-container button {
+  margin: 2% 2%;
 }

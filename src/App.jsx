@@ -4,11 +4,12 @@ function App() {
 
   return (
     <>
-     <div>
-        start
-     </div>
+      <div>
+        Who's that Cat?
+      </div>
+      
+      <Dogs/>
 
-     <Dogs/>
     </>
   )
 }
